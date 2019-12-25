@@ -5,6 +5,12 @@
 	c> PSO_KMeans_FINAL1.py
 	d> PSO_KMeans_FINAL2.py
 	e> PSO_KMeans_FINAL3.py
+	f> GA_Kmeans_FINAL1.py
+	g> GA_Kmeans_FINAL2.py
+	h> GA_Kmeans_FINAL3.py
+	i> HBPSO_FINAL1.py
+	j> HBPSO_FINAL2.py
+	k> HBPSO_FINAL3.py
 
 2>  After successful compilation run MAIN.py 
 
